@@ -1,4 +1,6 @@
-  Suggested Maps:
+========================================================================================================================================
+Suggested Maps:
+
 High difficulty maps:
 bhop_sqee_hard
 bhop_haddock
@@ -32,6 +34,7 @@ bhop_deadend
 bhop_frankerz
 
 ========================================================================================================================================
+Issues with current maps:
 
 Unbeatable maps (i.e. broken):
 bhop_dark_ascention (After entering the boost area one gets teleported into a black room instead of getting boosted)
