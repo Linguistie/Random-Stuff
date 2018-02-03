@@ -79,6 +79,9 @@ Zones on next map should be reset (due to their critical misplacement):
 bhop_picnic
 bhop_arcane_b2_rg3_csgo (+bonus is misplaced)
 
+Zones that can and should be adjusted:
+bhop_overline (must be higher)
+
 Maps with no zones on bonuses:
 bhop_mirrors_edge (map has 4 bonuses)
 bhop_arcane_b2_rg3_csgo (map has 1 bonus, opens after pressing all buttons on the level)
