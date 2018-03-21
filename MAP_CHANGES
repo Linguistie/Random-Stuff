@@ -33,8 +33,9 @@ P[x]bhop_lego2                          https://gamebanana.com/maps/185633
 [x]bhop_cw_journey_csgo                https://swoobles.com/map-database/590-bhop_cw_journey_csgo
 [x]bhop_haddock_rg2                        https://steamcommunity.com/sharedfiles/filedetails/?id=619403173
 [x]bhop_exceptional    
-bhop_aux_a9
-bhop_ragequit
+[x]bhop_aux_a9
+[x]bhop_ragequit
+[x]bhop_gopro_rg1
 
 Medium difficulty maps:
 P[x]bhop_badges_mini_csgo               https://steamcommunity.com/sharedfiles/filedetails/?id=554459854
@@ -67,7 +68,6 @@ bhop_pharma
 [x]bhop_jegg2_fix
 [x]bhop_smokee_2_fix
 bhop_ananas
-[x]bhop_gopro_rg1
 
 Easy difficulty maps:
 [x]bhop_emevaelx_csgo                  https://gamebanana.com/maps/192705
@@ -76,7 +76,7 @@ Easy difficulty maps:
 [x]bhop_blue_abstract                  https://gamebanana.com/maps/189964
 [x]bhop_sketchy_v4_csgo                https://steamcommunity.com/sharedfiles/filedetails/?id=858259678
 [x]bhop_hellokitty_csgo_fix            https://steamcommunity.com/sharedfiles/filedetails/?id=271464164  
-bhop_nona
+[x]bhop_nona
 
 Weird, but fun maps:
 [x]bhop_frankerz                       https://gamebanana.com/maps/186164
