@@ -85,6 +85,8 @@ Easy difficulty maps:
 [x]bhop_nona
 bhop_stref 
 bhop_rgbglow_csgo
+bhop_freedompuppies
+bhop_ssj
 
 Weird, but fun maps:
 [x]bhop_frankerz                       https://gamebanana.com/maps/186164
@@ -104,11 +106,11 @@ Zones that can and should be adjusted:
 bhop_overline (must be higher)
 
 Maps with no zones on bonuses:
-bhop_mirrors_edge (map has 4 bonuses)
+bhop_mirrorsedge_csgo (map has 4 bonuses)
 bhop_arcane_b2_rg3_csgo (map has 1 bonus, opens after pressing all buttons on the level)
 bhop_gismo (map has 2 bonuses)
 bhop_flyingcolors (map has 1 bonus)
-bhop_lego1 (map has 1 bonus)
+bhop_lego1_csgo (map has 1 bonus)
 bhop_pool (map has 1 bonus)
 bhop_cuteboys (map has 1 bonus)
 bhop_easy_csgo (map has 1-2 bonuses)
